@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "Tag": "Sennet",
+        "Name": "Migneault",
+        "Type": "Vanne",
+        "Drawing1": "tech E&I",
+        "Drawing2": "tech E&I",
+        "Drawing3": "tech E&I",
+        "reportLink": "/report",
+        "PicProfil": "profils/profil9.jpeg"
+    },
+    {
+        "id": 2,
+        "Tag": "Sennet",
+        "Name": "Migneault5",
+        "Type": "Indicateur",
+        "Drawing1": "tech E&I",
+        "Drawing2": "tech E&I",
+        "Drawing3": "tech E&I",
+        "reportLink": "/report",
+        "PicProfil": "profils/profil9.jpeg"
+    }
+]

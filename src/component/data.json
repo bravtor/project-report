@@ -1,0 +1,360 @@
+[
+    {
+        "id": 1,
+        "name": "Earlene",
+        "surname": "Hahn",
+        "team": "E&I",
+        "fonction": "sup E&I",
+        "email": "JohnDoe@team.fr",
+        "phone": "0650505050",
+        "reportLink": "/report",
+        "PicProfil": "profils/pic1.jpg",
+        "details": [
+            {
+                "info": "18/08/2025",
+                "statut": "On going"
+            },
+            {
+                "info": "11/08/2025",
+                "statut": "Done"
+                
+            },
+            {
+                "info": "04/08/2025",
+                "statut": "Done"
+            },
+            {
+                "info": "28/07/2025",
+                "statut": "Done"
+            },
+            {
+                "info": "21/07/2025",
+                "statut": "Done"
+            },
+            {
+                "info": "14/07/2025",
+                "statut": "Done"
+            },
+            {
+                "info": "07/07/2025",
+                "statut": "Done"
+            },
+            {
+                "info": "01/07/2025",
+                "statut": "Done"
+            },
+            {
+                "info": "25/06/2025",
+                "statut": "Done"
+            },
+            {
+                "info": "18/06/2025",
+                "statut": "Done"
+            },
+            {
+                "info": "12/06/2025",
+                "statut": "Done"
+            },
+            {
+                "info": "05/06/2025",
+                "statut": "Done"
+            },
+            {
+                "info": "28/05/2025",
+                "statut": "Done"
+            },
+            {
+                "info": "21/05/2025",
+                "statut": "Done"
+            },
+            {
+                "info": "14/05/2025",
+                "statut": "Done"
+            },
+            {
+                "info": "07/05/2025",
+                "statut": "Done"
+            },
+
+            {
+                "info": "12/08/2025",
+                "statut": "Done"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Ethan",
+        "surname": "Ernser",
+        "team": "Piping",
+        "fonction": "sup Piping",
+        "email": "JohnDoe@team.fr",
+        "phone": "0650505050",
+        "reportLink": "/report1",
+        "PicProfil": "profils/profil2.jpg",
+        "details": [
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Eric",
+        "surname": "Reynolds",
+        "team": "E&I",
+        "fonction": " tech E&I",
+        "email": "JohnDoe@team.fr",
+        "phone": "0650505050",
+        "reportLink": "/report",
+        "PicProfil": "profils/profil3.jpg",
+        "details": [
+            {
+                "info": "15/08/2025"
+            },
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Chase",
+        "surname": "Macejkovic",
+        "team": "Piping",
+        "fonction": "tech piping",
+        "email": "JohnDoe@team.fr",
+        "phone": "0650505050",
+        "reportLink": "/report",
+        "PicProfil": "profils/profil4.jpg",
+        "details": [
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Brigitte",
+        "surname": "Plourde",
+        "team": "E&I",
+        "fonction": "tech E&I",
+        "email": "JohnDoe@team.fr",
+        "phone": "0650505050",
+        "reportLink": "/report",
+        "PicProfil": "profils/profil10.jpeg",
+        "details": [
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Eloise",
+        "surname": "Grandpré",
+        "team": "Piping",
+        "fonction": "tech piping",
+        "email": "JohnDoe@team.fr",
+        "phone": "0650505050",
+        "reportLink": "/report",
+        "PicProfil": "profils/profil5.jpg",
+        "details": [
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Micah",
+        "surname": "C.Coffin",
+        "team": "Piping",
+        "fonction": "sup Piping",
+        "email": "JohnDoe@team.fr",
+        "phone": "0650505050",
+        "reportLink": "/report",
+        "PicProfil": "profils/profil6.jpeg",
+        "details": [
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Blanche",
+        "surname": "Paulet",
+        "team": "E&I",
+        "fonction": "tech E&I",
+        "email": "JohnDoe@team.fr",
+        "phone": "0650505050",
+        "reportLink": "/report",
+        "PicProfil": "profils/profil7.jpeg",
+        "details": [
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Marveille",
+        "surname": "Phaneuf",
+        "team": "E&I",
+        "fonction": "sup E&I",
+        "email": "JohnDoe@team.fr",
+        "phone": "0650505050",
+        "reportLink": "/report",
+        "PicProfil": "profils/profil8.jpg",
+        "details": [
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Sennet",
+        "surname": "Migneault",
+        "team": "E&I",
+        "fonction": "tech E&I",
+        "email": "JohnDoe@team.fr",
+        "phone": "0650505050",
+        "reportLink": "/report",
+        "PicProfil": "profils/profil9.jpeg",
+        "details": [
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Eloise",
+        "surname": "Grandpré",
+        "team": "Piping",
+        "fonction": "tech piping",
+        "email": "JohnDoe@team.fr",
+        "phone": "0650505050",
+        "reportLink": "/report",
+        "PicProfil": "profils/profil5.jpg",
+        "details": [
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Eloise",
+        "surname": "Grandpré",
+        "team": "Piping",
+        "fonction": "tech piping",
+        "email": "JohnDoe@team.fr",
+        "phone": "0650505050",
+        "reportLink": "/report",
+        "PicProfil": "profils/profil5.jpg",
+        "details": [
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "10/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            },
+            {
+                "info": "12/08/2025"
+            }
+        ]
+    }
+]

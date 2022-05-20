@@ -1,0 +1,51 @@
+.Total{
+   display: flex;
+   flex-direction: row;
+   border: 1px solid black;
+   border-radius: 10px;
+  
+ 
+   
+}
+
+.result {
+    width: 50%;
+    min-height: 100vh;
+   
+}
+.tableB {
+    width: 20%;
+    background-color: rgb(224, 224, 224);
+    border-radius: 10px 0px 0px 10px;
+}
+
+.NameB{
+    padding-top: 10px;
+}
+
+.Item{
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+
+.NamePage{
+    font-size: 25px;
+    font-weight: 700;
+  
+}
+
+.TitleItem{
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.TitleRes{
+    background-color: rgb(220, 220, 220);
+
+}
+
+.Item{
+    width: 30%;
+   
+}

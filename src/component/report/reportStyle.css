@@ -1,0 +1,21 @@
+
+
+.Name{
+    background-color: red;
+    margin-bottom: 20px;
+}
+
+.Surname{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px
+   
+}
+
+.SurnameD{
+
+    border: 1px solid grey;
+
+}
+

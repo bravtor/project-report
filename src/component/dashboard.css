@@ -1,0 +1,158 @@
+.main {
+  min-height: 100vh;
+}
+
+.table {
+  margin-bottom: 30px;
+}
+
+.table table {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 49px -17px rgba(66, 68, 90, 0.26);
+  border-collapse: collapse;
+  border: 1px solid black;
+ 
+  width: 100%;
+}
+
+.table thead {
+  background-color: rgb(228, 228, 228);
+  border: 1px solid black;
+}
+
+.table th {
+  padding: 10px;
+}
+
+.table td {
+  padding: 10px;
+}
+
+.table tr {
+  border-bottom: 1px solid black;
+}
+
+.filter {
+  color: red;
+  font-size: 25px;
+  margin-left: 30%;
+}
+
+.table tr:last-child {
+  border-bottom: none;
+}
+
+.consulter a {
+  color: blue;
+  font-size: 15px;
+}
+
+
+
+.surname {
+  font-weight: 700;
+}
+
+.Name {
+  background-color: rgb(255, 255, 255);
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 50px;
+  padding: 20px;
+}
+
+.Surname {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.SurnameD:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+.SurnameD {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  border: 1px solid grey;
+  padding: 10px;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.statut {
+  border-radius: 5px;
+  padding: 3px;
+  cursor: pointer;
+}
+
+.statut[data-status="On going"] {
+  background-color: rgba(255, 0, 0, 0.616);
+  color: white;
+}
+
+.statut[data-status="Done"] {
+  background-color: rgb(0, 154, 18);
+  color: white;
+}
+
+.fullA {
+  background-color: rgb(255, 255, 255);
+  width: 1000px;
+  box-shadow: 2px 2px 5px black;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.tableA {
+  margin-left: 20%;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: 500;
+}
+.surname {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.info {
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.filter {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  color: black;
+  font-size: 15px;
+}
+
+.OptionFilter {
+  display: flex;
+  flex-direction: row;
+}
+.picA{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.team{
+  font-weight: 700;
+}
+
+.picA img{
+
+  border-radius: 100%;
+
+}

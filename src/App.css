@@ -1,38 +1,121 @@
+* {
+  margin: 0;
+}
 .App {
-  text-align: center;
+  display: flex;
+  flex-direction: row;
+  background-color: #f7f7f7
+  
+ 
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  width: 10%;
+  height: 100vh;
+  border-right: 1px solid rgb(0, 0, 0);
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.505);
+  border-radius: 0px 10px 10px 0px;
+
+  background-color: #282c34;
+ 
+  text-align: center;
   color: white;
+  position: fixed;
+  overflow-y: auto;
+  padding-right: 20px;
+ }
+
+ul.list {
+  width: 100%;
+  padding-left: 10px;
+ 
+}
+.list li {
+  margin-top: 20px;
+  text-align: left;
+  list-style: none;
+  padding-right: 10px;
+ 
 }
 
-.App-link {
-  color: #61dafb;
+.list a {
+  font-size: 15px;
+  color: rgb(247, 247, 247);
+  font-weight: 500;
+text-decoration: none;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+
+.material-icons {
+  color: red;
+}
+
+.iconFa {
+  color: rgb(255, 255, 255);
+  padding-left: 10px;
+ 
+}
+
+.IconMenu {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 15px;
+  transition: 0.2s;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+}
+
+.IconMenu:hover{
+background-color: rgb(255, 255, 255);
+border-radius: 7px;
+transition: 0.3s;
+color: black
+
+}
+.IconMenu:hover .iconFa {
+  color: rgb(6, 1, 70);
+}
+
+.IconMenu:hover  a {
+  color: rgb(6, 1, 70);
+}
+
+.Route {
+  margin-left: 15%;
+  width: 80%;
+  height: 100%;
+ 
+
+}
+
+.ProfilHeader{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px
+}
+
+.SubtitleMenu{
+  margin-top: 30px;
+  font-weight: 900;
+  text-align: left;
+  padding-left: 5px;
+}
+
+.ProfilHeader img{
+  border-radius: 50px;
+}
+
+.HeaderTable{
+margin-top: 10px;
+margin-bottom: 10px;
+  
+}
+
+.FullPage{
+  min-height: 100vh;
 }

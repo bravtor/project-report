@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/:bravtor.github.io/project-report/static/css/main.3d3e7835.css",
+    "main.js": "/:bravtor.github.io/project-report/static/js/main.9ceb3bed.js",
+    "static/js/787.6d185335.chunk.js": "/:bravtor.github.io/project-report/static/js/787.6d185335.chunk.js",
+    "index.html": "/:bravtor.github.io/project-report/index.html",
+    "main.3d3e7835.css.map": "/:bravtor.github.io/project-report/static/css/main.3d3e7835.css.map",
+    "main.9ceb3bed.js.map": "/:bravtor.github.io/project-report/static/js/main.9ceb3bed.js.map",
+    "787.6d185335.chunk.js.map": "/:bravtor.github.io/project-report/static/js/787.6d185335.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d3e7835.css",
+    "static/js/main.9ceb3bed.js"
+  ]
+}
